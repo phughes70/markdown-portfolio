@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* Favourite places
+  * Local green spaces
+  * Kew
+  * Wisley
+  * Isle of Wight
+* Favourite people
+  * Sarah
+  * Evie
